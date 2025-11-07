@@ -6,7 +6,7 @@ The experiment is performed using the [IoTPot](https://sec.ynu.codes/iot/) Datas
 
 The folder and file descriptions of the repository are as follows:
 
-- **malFcTASEval/**
+- **ELF-OT/**
   - **Src/**: 
     - Feature/ Feature engineering method
     - Adaptation/ Adaptation technique 
